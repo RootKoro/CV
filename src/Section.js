@@ -36,7 +36,7 @@ const Section = () => {
             </div>
 
             <div className="vitrine">
-                <h4 className="years">06/202 - 08/2020</h4>
+                <h4 className="years">06/2020 - 08/2020</h4>
                 <p>
                     <h2>Improve SAS</h2>
                     <h4>
