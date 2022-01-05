@@ -13,10 +13,6 @@ const Header = () => {
                     <p>Célibataire</p>
                 </div>
             </div>
-            <div className="profilPic">
-                <img src="./img/profil_pic.jpeg" alt="moi" />
-                {/* {profil_pic} */}
-            </div>
             <div className="headerTitle">
                 <h1>
                     GUEYE <br />

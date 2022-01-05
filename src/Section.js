@@ -2,7 +2,7 @@ const Section = () => {
     return ( 
         <div className="section">
             <section className="titles">
-                <h3>Expérience professionnel</h3>
+                <h3>Expérience professionnelle</h3>
             </section>
 
             <div className="surrender"></div>
@@ -36,7 +36,7 @@ const Section = () => {
             </div>
 
             <div className="vitrine">
-                <h2 className="years">06/202 - 08/2020</h2>
+                <h4 className="years">06/202 - 08/2020</h4>
                 <p>
                     <h2>Improve SAS</h2>
                     <h4>
